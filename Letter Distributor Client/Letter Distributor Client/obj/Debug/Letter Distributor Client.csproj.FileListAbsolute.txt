@@ -1,0 +1,15 @@
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client.csprojAssemblyReference.cache
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\MainWindow.g.cs
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\App.g.cs
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client_MarkupCompile.cache
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client_MarkupCompile.lref
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\bin\Debug\Letter Distributor Client.exe.config
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\bin\Debug\Letter Distributor Client.exe
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\bin\Debug\Letter Distributor Client.pdb
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\MainWindow.baml
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client.g.resources
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter_Distributor_Client.Properties.Resources.resources
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client.csproj.GenerateResource.cache
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client.csproj.CoreCompileInputs.cache
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client.exe
+C:\Users\law\source\repos\Letter Distributor Client\Letter Distributor Client\obj\Debug\Letter Distributor Client.pdb
